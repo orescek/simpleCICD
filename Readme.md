@@ -6,7 +6,10 @@ Vagrant and VirtualBox installed
 ## How to run it
 Clone repository with your favorite git client
 
-In terminal go to folder where you clone it and run: vagrant up
+In terminal go to folder where you clone it and run: 
+```bash
+vagrant up
+```
 
 After that you are good to go!
 
@@ -14,7 +17,7 @@ After that you are good to go!
 http://localhost:8080
 
 ### Info
-Run only build and after build is finished feast your eyes with docker link
+Run only build and after build is finished feast your eyes with docker link :sparkles:
 
 ## Doker host with simple webservice
 http://localhost:8989
@@ -33,7 +36,8 @@ Your other Vagrant environment shouldn't use ports:
  - 8080
  - 8989
  - 9090
+ 
 This setup will not start fully because of this problem.
 
 # Where was tested
-Tested on Mac Os Sierra and El Capitan! 
+:heavy_exclamation_mark: Tested on Mac Os Sierra and El Capitan!  :heavy_exclamation_mark:
