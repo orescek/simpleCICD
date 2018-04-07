@@ -40,4 +40,4 @@ Your other Vagrant environment shouldn't use ports:
 This setup will not start fully because of this problem.
 
 # Where was tested
-:heavy_exclamation_mark: Tested on Mac Os Sierra and El Capitan!  :heavy_exclamation_mark:
+:heavy_exclamation_mark: Tested on Mac Os High Sierra and El Capitan!  :heavy_exclamation_mark:
