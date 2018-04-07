@@ -62,8 +62,8 @@ sudo sh -c 'cat jenkins.tar.gz.parta* >jenkins.tar.gz'
 sudo tar xvzf $jenkinsbackup
 sudo service jenkins start
 
-sudo rm /var/lib/jenkins//vagrant/$jenkinsbackup.partaa
-sudo rm /var/lib/jenkins//vagrant/$jenkinsbackup.partab
-sudo rm /var/lib/jenkins//vagrant/$jenkinsbackup.partac
+sudo rm /var/lib/jenkins/$jenkinsbackup.partaa
+sudo rm /var/lib/jenkins/$jenkinsbackup.partab
+sudo rm /var/lib/jenkins/$jenkinsbackup.partac
 
 
