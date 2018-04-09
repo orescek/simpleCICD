@@ -2,4 +2,4 @@
 *.sh       text eol=crlf
 *.service       text eol=crlf
 *.yml       text eol=crlf
-*.partaa text eol=crlf
+*.parta* text eol=lf
